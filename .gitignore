@@ -1,0 +1,21 @@
+# data folder
+data
+
+# ide and python compiled files
+*.idea
+*.pyc
+
+ipython notebook files
+*.ipynb*
+
+# given readme file
+README.md
+
+.gitignore~
+
+# old h5 files
+*old*.h5
+
+# glove embeddings
+glove.6B
+
